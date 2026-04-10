@@ -1,6 +1,6 @@
 # ¡Hola! Soy José Aron Salgado Ramírez 🇲🇽⚛️
 
-** Estudiante de Física 
+# Estudiante de Física 
 
 ### 🛠️ Tech Stack & Skills
 - **Lenguajes:** Python (NumPy, Pandas, Scikit-Learn), SQL, R.

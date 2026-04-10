@@ -1,4 +1,4 @@
-# ¡Hola! Soy José Aron Salgado Ramírez 🇲🇽⚛️
+# ¡Hola! Soy Aron Salgado 🇲🇽⚛️
 
 # Estudiante de Física 
 
